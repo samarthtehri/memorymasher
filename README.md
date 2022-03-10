@@ -41,6 +41,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 ![memory masher gif](memorymasher.gif)
+Note: No sounds plays through a gif file. Audio functionality works perfectly in live demo link below.
 
 ## Live Demo
 
