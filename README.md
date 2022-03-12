@@ -52,7 +52,7 @@ Link to live prototype: https://citrine-accessible-gecko.glitch.me/
 None
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-
+The challenge I encountered in creating this submission was that the default generated code was different from the one described in the tutorial, so navigating the new codebase, and the layout, was a slight challenge at first, however, I quickly overcame it within about 3 minutes as i understood the placements and specific usability of those code segments. Navigating the new layout was a bit tougher, but I overcame it by searching the keyboard shortcuts online (such as the live code preview mode and the 'export / push to GitHub's feature). The new glitch UI layout seems better but some of the features were not visible at first. Another challenge was to know and learn some of the new JavaScript features that I did not use before, such as the audio playback feature. It was interesting and i quickly learnt it via understanding and implementing. Apart from these challenges, other challenges might be simple bugs and errors that I quickly fixed within seconds, therefore no major challenges encountered (apart from the previously mentioned ones).
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
