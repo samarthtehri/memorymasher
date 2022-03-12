@@ -4,7 +4,7 @@
 
 Submitted by: **Samarth Tehri**
 
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/citrine-accessible-gecko?path=index.html%3A1%3A0
 Link to live prototype: https://citrine-accessible-gecko.glitch.me/
@@ -64,7 +64,7 @@ If i had a few extra hours to work on this project, I would spend them in creati
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://youtu.be/PBWuM4nSyGc)
 
 
 ## License
